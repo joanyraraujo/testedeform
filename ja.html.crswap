@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <link rel="shortcut icon" href="Design_sem_nome__1_-removebg-preview.png"/>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css" crossorigin="anonymous">
+        <link rel="stylesheet" href="estilo.css">
+        <script defer src="script.js"></script>
+        <title>Joanyr Araujo</title>
+    </head>
+    <body>
+        <header>
+            <div class="palavra">
+                <h1 class="pa">SEU BENEFÍCIO EM BOAS MÃOS</h1>
+                <h2 id="sub">A realidade é que muitos brasileiros têm seus pedidos negados por falta de orientação adequada e erros na documentação. Mas estamos aqui para te ajudar</h2>
+                <a href="https://wa.me/556392429797" target="_blank"><button class="but">Fale com um especialista</button></a>
+            </div>
+            <div class="imag">
+                <img class="old" src="woman1.png">
+            </div>
+        </header>
+        <main>
+            <div class="womans">
+                <div class="imag">
+                    <img style="width: 70%;" src="woman2.png">
+                </div>
+                <div class="texto">
+                    <h1>O que é o Sálario Maternidade</h1>
+                    <p>O Salário Maternidade é um benefício concedido para as mães desempregadas que já trabalharam pelo menos 1 dia com carteira assinada antes do nascimento da criança. Se uma mãe teve um recolhimento mínimo na carteira de trabalho, pode ter direito ao benefício para auxiliar e adicionar em sua renda mensal, durantes os 4 primeiros meses e criar seu(a) filho(a) com mais tranquilidade e qualidade de vida. Se a criança já nasceu, o valor total é recebido em uma única parcela.</p>
+                </div>
+            </div>
+            <div id="womans" style="margin-top: 10%;">
+                <div class="imag">
+                    <img style="width: 80%;"  src="Default_image_from_mother_and_child0_years_old_3-removebg-preview (1).png">
+                </div>
+                <div class="texto">
+                    <h1 style="margin-top: 12%;">Você pode receber até R$7.000</h1>
+                    <p>Se você é gestante, você também tem direito, a partir do 28° dia antes do parto. Mamães com filho menor de 5 anos também podem ter esse direito  </p>
+                </div>
+            </div>
+            <a href="https://wa.me/556392429797" target="_blank"><button class="ultimo" style="margin-top: 3%;"><span class="conversa">Descubra se tem Direito</span></button></a>
+        </main>
+        <div class="funciona">
+            <span style="font-size: 4.5em;">1</span>
+        </div>
+        <div class="funciona">
+            <span style="font-size: 4.5em;">1</span>
+        </div>
+        <div class="funciona">
+            <span style="font-size: 4.5em;">1</span>
+        </div>
+        <div class="funciona">
+            <span style="font-size: 4.5em;">1</span>
+        </div>
+            <div class="porque">
+                <h1 style="padding-left: center;">Perguntas frequentes:</h1>
+                <div class="motivo">
+                    <div class="escolher">
+                        <h3>Por onde vou receber o pagamento?</h3>
+                        <p>O benefício é pago em uma conta que o governo abre especificamente para o recebimento. Assim que liberado, basta levar a liberação do benefício com sua documentação. </p>
+                    </div>
+                    <div class="escolher">
+                        <h3>Quanto tempo demora para receber?</h3>
+                        <p>Realizamos uma análise interna antes de encaminhar o benefício para verificação do direito, que pode levar até três semanas, dependendo da demanda. Após a verificação, é encaminhado ao governo federal que tem em um prazo médio de 90 dias para liberação do benefício.</p>
+                        
+                    </div>
+                    <div class="escolher">
+                        <h3>Recebo uma vez só ou parcelado?</h3>
+                        <p>Se a criança for menor de 4 meses quando seu pagamento estará disponível para receber PARCELADO (Podendo chegar a 4 no total). Se a criança for maior de quatro meses receberá o VALOR TOTAL em uma única parcela.</p>
+
+                    </div>
+                    <div class="escolher">
+                        <h3>Que idade a criança precisa ter para a mamãe receber?</h3>
+                        <p>A mãe da criança pode ter direito até o momento em que a criança completar até 4 anos e 11 meses. </p>
+                    </div>
+                    <div class="escolher">
+                        <h3>Sou Microempreendedora Individual, tenho direito ao salário maternidade?</h3>
+                        <p>Sim, a Microempreendedora Individual tem direito ao recebimento do salário maternidade. É importante destacar que, mesmo recebendo o benefício, a MEI precisará continuar pagando do DAS-MEI. Entretanto, deverá informar a Receita a sua condição de beneficiária do salário maternidade, assim o documento de arrecadação será emitidos sem a incidência da contribuição previdenciária.</p>
+                    </div>
+                    <div class="escolher">
+                        <h3>A partir de quando é possível requerer o salário maternidade?</h3>
+                        <p>Para as desempregadas o requerimento precisa ocorrer após o parto. Para as demais seguradas, o requerimento do salário maternidade pode acontecer tão logo haja a concessão da licença maternidade, ou seja, a partir de 28 (vinte e oito) dias antes do parto ou a data de ocorrência deste. No caso de aborto não criminoso a partir da data ocorrência do aborto</p>
+                    </div>
+                </div>
+                <a href="https://wa.me/556392429797" target="_blank"><button class="ultimo"><span class="conversa">Converse com um Advogado</span></button></a>
+            </div>
+            <div id="depois">
+            </div>
+            <footer>
+                <h1>Quem somos</h1>
+                <div class="dep">
+                    <div class="noiscai">
+                        <p class="para">Nosso escritório é especializado em requerimento de sálario maternidade, de forma que possui profissionais com mais de 14 anos em prática previdênciaria, que conhecem toda legislação utilizada pelo INSS para concessão de benefício aos segurados do regime geral de previdência social, como também a legislação específica em caso de regime próprio. Temos como objetivo utilizar todo nosso conhecimento e experiência para obter o melhor e maior benefício que o segurado ou seus dependentes têm direito</p>
+                    </div>
+                    <div class="daimagemcai"><img class="dnos" src="WhatsApp_Image_2024-07-02_at_10.21.02-removebg-preview.png""></div>
+                </div>
+            </footer>
+            <div class="localiza">
+                <span class="dr" /*style="color:white; position: absolute; width: 15%; left: 71%; margin-top: -65px"*/>DR. JOANYR ARAUJO</span>
+                <span class="ceo" /*style="color:white; position: absolute; width: 19%; left: 71.2%; margin-top: -45px"*/>CEO JA ADVOCACIA</span>
+                <div class="mapa">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d412.72871862249616!2d-48.329972990244435!3d-10.216387207401873!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x933b35bcc4ff71f1%3A0x9b80a30c69ccc9d5!2sJA%20Advocacia%20Previdenci%C3%A1ria!5e0!3m2!1spt-BR!2sbr!4v1718737803313!5m2!1spt-BR!2sbr" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" id="google"></iframe>
+                </div class="inform">
+                    <ul>
+                        <li><h1>Nossa localização</h1></li>
+                        <li class="pais"><img class="fin" src="localizador-de-mapa.png"> 504 sul - Av. NS 2, 29 - Plano Diretor Sul, Palmas - TO, 77021-672</li>
+                        <li class="pais"><img class="fin" src="telefone-tocando.png"> (63)992429797</li>
+                        <a href="https://www.instagram.com/joanyraraujo.adv/"><li class="pais"><img class="fin" src="instagram.png"></a> @joanyraraujo.adv</li>
+                        <li class="pais"><img class="fin" src="o-email.png"> josoaresadv@gmail.com</li>
+                        <li id="buta"><a href="https://wa.me/556392429797" target="_blank"><button id="conosco"><span id="fala">FALE CONOSCO</span></button></a></li>
+                    </ul>
+                </div>
+            </div>
+        <div class="rodape">
+            <img src="2.png" style="width: 20%; margin-left: 40%; margin-bottom: 2%; margin-top: 0;">
+            <span style="display: flex; justify-content: center; color: #f5d290; margin-bottom: 1%;">CNPJ: 055.010.285/0001-33</span>
+            <span style="text-align: center; color: aliceblue; font-size: 1.25em;">&copy Copywrite todos os direitos reservados pela JA Advocacia Previdenciária</span>
+        </div>
+    </body>
+</html>
